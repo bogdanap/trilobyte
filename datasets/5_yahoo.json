@@ -1,0 +1,1542 @@
+{
+    "BD": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "BE": [
+        {
+            "facebook": {
+                "total": "150", 
+                "responses": "105"
+            }
+        }, 
+        {
+            "google": {
+                "total": "120", 
+                "responses": "76"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "727", 
+                "responses": "629"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "39", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "BG": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "7", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "BA": [
+        {
+            "facebook": {
+                "total": "4", 
+                "responses": "1"
+            }
+        }
+    ], 
+    "BB": [
+        {
+            "facebook": {
+                "total": "3", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "JP": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "google": {
+                "total": "124", 
+                "responses": "77"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "572", 
+                "responses": "538"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "40", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "BW": [
+        {
+            "facebook": {
+                "total": "3", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "BR": [
+        {
+            "facebook": {
+                "total": "715", 
+                "responses": "236"
+            }
+        }, 
+        {
+            "google": {
+                "total": "1211", 
+                "responses": "799"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "2214", 
+                "responses": "1869"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "8", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "308", 
+                "responses": "203"
+            }
+        }
+    ], 
+    "BY": [
+        {
+            "skype": {
+                "total": "5", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "RU": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "google": {
+                "total": "97", 
+                "responses": "1"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "RS": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "RO": [
+        {
+            "facebook": {
+                "total": "16", 
+                "responses": "10"
+            }
+        }
+    ], 
+    "GT": [
+        {
+            "microsoft": {
+                "total": "2", 
+                "responses": "2"
+            }
+        }
+    ], 
+    "GS": [
+        {
+            "skype": {
+                "total": "0", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "GR": [
+        {
+            "facebook": {
+                "total": "122", 
+                "responses": "66"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "9", 
+                "responses": "6"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "9", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "GB": [
+        {
+            "facebook": {
+                "total": "1975", 
+                "responses": "1343"
+            }
+        }, 
+        {
+            "google": {
+                "total": "1458", 
+                "responses": "1021"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "9226", 
+                "responses": "7057"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "1268", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "1709", 
+                "responses": "1107"
+            }
+        }
+    ], 
+    "HR": [
+        {
+            "facebook": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "HU": [
+        {
+            "facebook": {
+                "total": "25", 
+                "responses": "9"
+            }
+        }, 
+        {
+            "google": {
+                "total": "95", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "123", 
+                "responses": "102"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "7", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "HK": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "1"
+            }
+        }, 
+        {
+            "google": {
+                "total": "255", 
+                "responses": "79"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "1041", 
+                "responses": "822"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "0", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "839", 
+                "responses": "532"
+            }
+        }
+    ], 
+    "PR": [
+        {
+            "skype": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "PT": [
+        {
+            "facebook": {
+                "total": "177", 
+                "responses": "74"
+            }
+        }, 
+        {
+            "google": {
+                "total": "200", 
+                "responses": "60"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "548", 
+                "responses": "469"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "PA": [
+        {
+            "facebook": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "26", 
+                "responses": "24"
+            }
+        }
+    ], 
+    "PE": [
+        {
+            "facebook": {
+                "total": "13", 
+                "responses": "2"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "84", 
+                "responses": "78"
+            }
+        }
+    ], 
+    "PK": [
+        {
+            "facebook": {
+                "total": "35", 
+                "responses": "27"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "0", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "PH": [
+        {
+            "facebook": {
+                "total": "4", 
+                "responses": "1"
+            }
+        }
+    ], 
+    "PL": [
+        {
+            "facebook": {
+                "total": "233", 
+                "responses": "21"
+            }
+        }, 
+        {
+            "google": {
+                "total": "409", 
+                "responses": "70"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "70", 
+                "responses": "55"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "17", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "EE": [
+        {
+            "skype": {
+                "total": "6", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "EG": [
+        {
+            "facebook": {
+                "total": "8", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "ZA": [
+        {
+            "facebook": {
+                "total": "14", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "EC": [
+        {
+            "facebook": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "59", 
+                "responses": "57"
+            }
+        }
+    ], 
+    "IT": [
+        {
+            "facebook": {
+                "total": "1705", 
+                "responses": "904"
+            }
+        }, 
+        {
+            "google": {
+                "total": "846", 
+                "responses": "288"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "1519", 
+                "responses": "1261"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "96", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "2637", 
+                "responses": "1774"
+            }
+        }
+    ], 
+    "ES": [
+        {
+            "facebook": {
+                "total": "479", 
+                "responses": "244"
+            }
+        }, 
+        {
+            "google": {
+                "total": "447", 
+                "responses": "219"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "1981", 
+                "responses": "1668"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "11", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "718", 
+                "responses": "500"
+            }
+        }
+    ], 
+    "ME": [
+        {
+            "facebook": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "UY": [
+        {
+            "microsoft": {
+                "total": "1", 
+                "responses": "1"
+            }
+        }
+    ], 
+    "MN": [
+        {
+            "facebook": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "US": [
+        {
+            "facebook": {
+                "total": "11500", 
+                "responses": "9085"
+            }
+        }, 
+        {
+            "google": {
+                "total": "8438", 
+                "responses": "7440"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "11073", 
+                "responses": "8740"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "1154", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "12444", 
+                "responses": "11402"
+            }
+        }
+    ], 
+    "MT": [
+        {
+            "facebook": {
+                "total": "89", 
+                "responses": "53"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "75", 
+                "responses": "67"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "5", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "UG": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "MY": [
+        {
+            "facebook": {
+                "total": "7", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "MX": [
+        {
+            "facebook": {
+                "total": "78", 
+                "responses": "29"
+            }
+        }, 
+        {
+            "google": {
+                "total": "90", 
+                "responses": "22"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "1323", 
+                "responses": "1194"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "3", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "150", 
+                "responses": "96"
+            }
+        }
+    ], 
+    "IL": [
+        {
+            "facebook": {
+                "total": "113", 
+                "responses": "57"
+            }
+        }, 
+        {
+            "google": {
+                "total": "56", 
+                "responses": "33"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "54", 
+                "responses": "46"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "10", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "FR": [
+        {
+            "facebook": {
+                "total": "1547", 
+                "responses": "603"
+            }
+        }, 
+        {
+            "google": {
+                "total": "1693", 
+                "responses": "745"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "8603", 
+                "responses": "7377"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "402", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "1855", 
+                "responses": "1324"
+            }
+        }
+    ], 
+    "FI": [
+        {
+            "facebook": {
+                "total": "12", 
+                "responses": "9"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "56", 
+                "responses": "54"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "7", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "NL": [
+        {
+            "facebook": {
+                "total": "11", 
+                "responses": "4"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "859", 
+                "responses": "671"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "NO": [
+        {
+            "facebook": {
+                "total": "16", 
+                "responses": "5"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "187", 
+                "responses": "168"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "14", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "NF": [
+        {
+            "skype": {
+                "total": "0", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "NZ": [
+        {
+            "facebook": {
+                "total": "106", 
+                "responses": "61"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "64", 
+                "responses": "47"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "9", 
+                "responses": "7"
+            }
+        }
+    ], 
+    "NP": [
+        {
+            "facebook": {
+                "total": "3", 
+                "responses": "1"
+            }
+        }
+    ], 
+    "CI": [
+        {
+            "facebook": {
+                "total": "4", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "CH": [
+        {
+            "facebook": {
+                "total": "32", 
+                "responses": "4"
+            }
+        }, 
+        {
+            "google": {
+                "total": "49", 
+                "responses": "33"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "74", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "CO": [
+        {
+            "facebook": {
+                "total": "27", 
+                "responses": "4"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "227", 
+                "responses": "189"
+            }
+        }
+    ], 
+    "CN": [
+        {
+            "skype": {
+                "total": "6", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "CL": [
+        {
+            "facebook": {
+                "total": "215", 
+                "responses": "146"
+            }
+        }, 
+        {
+            "google": {
+                "total": "109", 
+                "responses": "63"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "530", 
+                "responses": "447"
+            }
+        }
+    ], 
+    "CA": [
+        {
+            "facebook": {
+                "total": "192", 
+                "responses": "84"
+            }
+        }, 
+        {
+            "google": {
+                "total": "38", 
+                "responses": "9"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "103", 
+                "responses": "97"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "20", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "29", 
+                "responses": "28"
+            }
+        }
+    ], 
+    "CZ": [
+        {
+            "facebook": {
+                "total": "10", 
+                "responses": "6"
+            }
+        }, 
+        {
+            "google": {
+                "total": "51", 
+                "responses": "16"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "19", 
+                "responses": "16"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "33", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "CY": [
+        {
+            "facebook": {
+                "total": "3", 
+                "responses": "1"
+            }
+        }
+    ], 
+    "CR": [
+        {
+            "facebook": {
+                "total": "4", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "98", 
+                "responses": "91"
+            }
+        }
+    ], 
+    "KH": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "SV": [
+        {
+            "facebook": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "9", 
+                "responses": "8"
+            }
+        }
+    ], 
+    "SK": [
+        {
+            "microsoft": {
+                "total": "28", 
+                "responses": "25"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "KR": [
+        {
+            "facebook": {
+                "total": "7", 
+                "responses": "1"
+            }
+        }, 
+        {
+            "google": {
+                "total": "355", 
+                "responses": "107"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "616", 
+                "responses": "501"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "7", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "SI": [
+        {
+            "facebook": {
+                "total": "6", 
+                "responses": "3"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "SG": [
+        {
+            "facebook": {
+                "total": "107", 
+                "responses": "75"
+            }
+        }, 
+        {
+            "google": {
+                "total": "96", 
+                "responses": "72"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "179", 
+                "responses": "168"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "4", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "138", 
+                "responses": "75"
+            }
+        }
+    ], 
+    "SE": [
+        {
+            "facebook": {
+                "total": "54", 
+                "responses": "29"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "326", 
+                "responses": "293"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "43", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "DO": [
+        {
+            "microsoft": {
+                "total": "17", 
+                "responses": "17"
+            }
+        }
+    ], 
+    "DK": [
+        {
+            "facebook": {
+                "total": "11", 
+                "responses": "6"
+            }
+        }, 
+        {
+            "google": {
+                "total": "34", 
+                "responses": "20"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "128", 
+                "responses": "111"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "16", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "DE": [
+        {
+            "facebook": {
+                "total": "1886", 
+                "responses": "698"
+            }
+        }, 
+        {
+            "google": {
+                "total": "1550", 
+                "responses": "651"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "8419", 
+                "responses": "7088"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "686", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "4295", 
+                "responses": "3039"
+            }
+        }
+    ], 
+    "MK": [
+        {
+            "facebook": {
+                "total": "9", 
+                "responses": "3"
+            }
+        }
+    ], 
+    "LB": [
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "TW": [
+        {
+            "facebook": {
+                "total": "229", 
+                "responses": "192"
+            }
+        }, 
+        {
+            "google": {
+                "total": "290", 
+                "responses": "215"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "4381", 
+                "responses": "3779"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "316", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "1942", 
+                "responses": "1787"
+            }
+        }
+    ], 
+    "XXX": [
+        {
+            "facebook": {
+                "total": "Total Requests", 
+                "responses": "Rounded"
+            }
+        }, 
+        {
+            "google": {
+                "total": "Legal Process", 
+                "responses": "Users/Accounts Specified"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "Total Number of Requests", 
+                "responses": "Result"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "70665", 
+                "responses": "57946"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "Total Number of Requests", 
+                "responses": "Requests Resulting in Disclosure of Content"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "4713", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "Govt. Data Requests", 
+                "responses": "Responses"
+            }
+        }
+    ], 
+    "TR": [
+        {
+            "facebook": {
+                "total": "96", 
+                "responses": "45"
+            }
+        }, 
+        {
+            "google": {
+                "total": "149", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "11434", 
+                "responses": "8997"
+            }
+        }
+    ], 
+    "LV": [
+        {
+            "skype": {
+                "total": "5", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "LT": [
+        {
+            "facebook": {
+                "total": "6", 
+                "responses": "1"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "8", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "LU": [
+        {
+            "microsoft": {
+                "total": "55", 
+                "responses": "48"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "98", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "TH": [
+        {
+            "facebook": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "83", 
+                "responses": "73"
+            }
+        }
+    ], 
+    "AE": [
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "VE": [
+        {
+            "microsoft": {
+                "total": "11", 
+                "responses": "10"
+            }
+        }
+    ], 
+    "IS": [
+        {
+            "facebook": {
+                "total": "1", 
+                "responses": "1"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "8", 
+                "responses": "7"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "AM": [
+        {
+            "skype": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "AL": [
+        {
+            "facebook": {
+                "total": "6", 
+                "responses": "5"
+            }
+        }
+    ], 
+    "AR": [
+        {
+            "facebook": {
+                "total": "152", 
+                "responses": "41"
+            }
+        }, 
+        {
+            "google": {
+                "total": "114", 
+                "responses": "43"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "769", 
+                "responses": "659"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "186", 
+                "responses": "123"
+            }
+        }
+    ], 
+    "AU": [
+        {
+            "facebook": {
+                "total": "546", 
+                "responses": "349"
+            }
+        }, 
+        {
+            "google": {
+                "total": "584", 
+                "responses": "380"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "2238", 
+                "responses": "1899"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "195", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "704", 
+                "responses": "316"
+            }
+        }
+    ], 
+    "AT": [
+        {
+            "facebook": {
+                "total": "35", 
+                "responses": "6"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "10", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "IN": [
+        {
+            "facebook": {
+                "total": "3245", 
+                "responses": "1623"
+            }
+        }, 
+        {
+            "google": {
+                "total": "2431", 
+                "responses": "1604"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "418", 
+                "responses": "370"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "53", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "1490", 
+                "responses": "835"
+            }
+        }
+    ], 
+    "TZ": [
+        {
+            "skype": {
+                "total": "1", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "IE": [
+        {
+            "facebook": {
+                "total": "34", 
+                "responses": "24"
+            }
+        }, 
+        {
+            "microsoft": {
+                "total": "72", 
+                "responses": "51"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "4", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "yahoo": {
+                "total": "17", 
+                "responses": "15"
+            }
+        }
+    ], 
+    "UA": [
+        {
+            "skype": {
+                "total": "5", 
+                "responses": "0"
+            }
+        }
+    ], 
+    "QA": [
+        {
+            "facebook": {
+                "total": "3", 
+                "responses": "0"
+            }
+        }, 
+        {
+            "skype": {
+                "total": "2", 
+                "responses": "0"
+            }
+        }
+    ]
+}

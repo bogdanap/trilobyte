@@ -1,0 +1,71 @@
+<!doctype html>
+
+<html>
+  <head>
+    <title>Your privacy metrics</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style>
+      body {
+        font-size: 18px;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: bold;
+        text-align: center;
+        color:gray;
+      }
+
+      
+      #title {
+        margin-top: 20px;
+        font-size: 30px;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: bold;
+        text-align: center;
+        color: gray;
+      }
+
+      #g1 {
+        width:400px; height:320px;
+        display: inline-block;
+        margin: 1em;
+      }
+
+      p {
+        display: block;
+        width: 450px;
+        margin: 2em auto;
+        text-align: left;
+      }
+    </style>
+
+	<script src="../resources/js/jquery.js"></script>
+    <script src="../resources/js/raphael.2.1.0.min.js"></script>
+    <script src="../resources/js/justgage.1.0.1.min.js"></script>
+    <script src="../resources/js/score.js"></script>
+    <script>
+		var g1;
+
+		window.onload = function(){
+			get_gauge_score(function(score){
+				var g1 = new JustGage({
+					id: "g1",
+					value: score.toFixed(1),
+					min: 0,
+					max: 100,
+					title: "Your Privacy Score",
+					shadowOpacity: 1,
+					titleFontColor: "black",
+					labelFontColor: "black"
+				});
+			});
+		};
+	</script>
+
+	</head>
+	<body>
+        <div id="title" align="center"> How safe is your data?</div>
+	<div id="g1"></div>
+	<p> This score was generated based on your recent online traffic. </p><p>Move to the next slides to see a more
+        explicit view of the data that was used to calculate it.
+	</p>
+	</body>
+	</html>

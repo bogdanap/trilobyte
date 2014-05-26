@@ -1,0 +1,30 @@
+{
+    "127.0.0.1": {
+        "country": "", 
+        "monitored": {
+            "yahoo.com": 11, 
+            "google.com": 46, 
+            "skype.com": 5, 
+            "microsoft.com": 12, 
+            "twitter.com": 1, 
+            "facebook.com": 7, 
+            "linkedin.com": 3
+        }, 
+        "destinations": {
+            "ES": 47, 
+            "BE": 9, 
+            "NL": 20, 
+            "RU": 11, 
+            "DE": 195, 
+            "US": 292, 
+            "CZ": 1, 
+            "LU": 1, 
+            "GB": 6, 
+            "EU": 10, 
+            "RO": 242, 
+            "IE": 13, 
+            "PL": 2, 
+            "AT": 2
+        }
+    }
+}

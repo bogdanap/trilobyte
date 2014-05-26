@@ -1,0 +1,38 @@
+XXX,Country,Requests,Number of accounts,Percentage,Responses
+AR,Argentina,10,10,0,0
+AU,Australia,10,58,25,3
+AT,Austria,0,0,0,0
+BE,Belgium,0,0,0,0
+BR,Brazil,22,44,32,7
+BG,Bulgaria,0,0,0,0
+CA,Canada,12,13,17,2
+DK,Denmark,0,0,0,0
+EC,Ecuador,10,10,100,10
+FR,France,18,35,11,2
+DE,Germany,10,10,17,2
+GR,Greece,10,10,0,0
+IN,India,10,10,0,0
+ID,Indonesia,0,0,0,0
+IE,Ireland,10,10,100,10
+IL,Israel,0,0,0,0
+IT,Italy,22,22,0,0
+JP,Japan,87,103,16,14
+KR,"Korea, Republic of",10,10,0,0
+KW,Kuwait,10,10,0,0
+MX,Mexico,11,19,0,0
+NL,Netherlands,10,10,33,3
+PE,Peru,0,0,0,0
+PH,Philippines,10,10,0,0
+PT,Portugal,0,0,0,0
+QA,Qatar,0,0,0,0
+SA,Saudi Arabia,10,10,0,0
+SG,Singapore,10,10,0,0
+SS,South Sudan,0,0,0,0
+ES,Spain,13,14,0,0
+SE,Sweden,0,0,0,0
+CH,Switzerland,10,10,0,0
+TR,Turkey,10,10,0,0
+GB,United Kingdom,26,29,15,4
+US,United States,902,1319,67,604
+VE,"Venezuela, Bolivarian Republic of",10,10,0,0
+XXX,TOTAL,1157,1697,55,636

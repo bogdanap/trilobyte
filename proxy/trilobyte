@@ -1,0 +1,94 @@
+#!/usr/bin/env python
+# encoding: utf-8
+
+import os
+import json
+import pygeoip
+import socket
+import sys
+import time
+import traceback
+import threading
+
+DATA_PATH = "../trilobyte"
+WRITE_INTERVAL = 5
+
+statistics = {}
+
+
+def stats_writer(lock):
+    global statistics
+
+    while True:
+        time.sleep(WRITE_INTERVAL)
+        filename = os.path.join(DATA_PATH, 'statistics.json.tmp')
+        statistics_file = os.path.join(DATA_PATH, 'statistics.json')
+        f = open(filename, 'w')
+        with lock:
+            f.write(json.dumps(statistics, indent=4))
+            f.close()
+        os.rename(filename, statistics_file)
+
+
+try:
+    g4 = pygeoip.GeoIP('GeoIP.dat', pygeoip.MEMORY_CACHE)
+    f = open('log.txt', 'wa')
+    urls_file = os.path.join(DATA_PATH, 'monitored.txt')
+
+    statistics = {}
+    statistics_file = os.path.join(DATA_PATH, 'statistics.json')
+    if os.path.exists(statistics_file):
+        try:
+            statistics = json.loads(open(statistics_file).read())
+        except ValueError:
+            pass
+    monitored = set()
+    if os.path.exists(urls_file):
+        for url in map(lambda x: x.strip(), open(urls_file).readlines()):
+            monitored.add(url)
+
+    statistics_lock = threading.RLock()
+    writer = threading.Thread(target=stats_writer, args=(statistics_lock,))
+    writer.daemon = True
+    writer.start()
+    while True:
+        data = sys.stdin.readline()
+        split = data.split()
+        host = split[0]
+        if '/' in host:
+            host = host.split('/')[0]
+        try:
+            ip = socket.gethostbyname(host)
+        except Exception, e:
+            ip = None
+        if ip:
+            country = g4.country_code_by_addr(ip)
+        else:
+            country = 'unknown'
+        host = host.split('.')
+        host = '.'.join(host[-2:])
+        client_ip = split[1]
+
+        with statistics_lock:
+            if not client_ip in statistics:
+                client_country = g4.country_code_by_addr(client_ip)
+                statistics[client_ip] = dict(destinations={}, monitored={},
+                                             country=client_country)
+            if host in monitored:
+                if host in statistics[client_ip]['monitored']:
+                    statistics[client_ip]['monitored'][host] += 1
+                else:
+                    statistics[client_ip]['monitored'][host] = 1
+            if country in statistics[client_ip]['destinations']:
+                statistics[client_ip]['destinations'][country] += 1
+            else:
+                statistics[client_ip]['destinations'][country] = 1
+        sys.stdout.write('\n')
+        sys.stdout.flush()
+except KeyboardInterrupt, e:
+    sys.stderr.write('^C keyboard interrupt. exiting.\n')
+    sys.stderr.flush()
+except:
+    f.write(traceback.format_exc())
+    sys.stderr.write('CHILD FAILED %s\n' % traceback.format_exc())
+    sys.stderr.flush()

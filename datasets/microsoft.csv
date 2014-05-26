@@ -1,0 +1,51 @@
+XXX,Country,Total Number of Requests,Accounts/Users Specified in Requests,Requests Resulting in Disclosure of Content,Requests Resulting in Disclosure of Only Subscriber/Transactional (Non-Content) Data,Requests Resulting in Disclosure of No Customer Data (No  Data Found),Requests Resulting in Disclosure of No Customer Data(Request Rejected for Not Meeting Legal Requirements),Result
+XXX,TOTAL,70665,122015,1558,56388,11852,866,57946
+AR,Argentina,769,1279,0,659,110,0,659
+AU,Australia,2238,3081,0,1899,316,23,1899
+BE,Belgium,727,1140,0,629,98,0,629
+BR,Brazil,2214,4176,7,1862,343,2,1869
+CA,Canada,103,385,1,96,5,1,97
+CL,Chile,530,791,0,447,83,0,447
+CO,Colombia,227,623,0,189,38,0,189
+CR,Costa Rica,98,152,0,91,7,0,91
+CZ,Czech Republic,19,27,0,16,3,0,16
+DK,Denmark,128,191,0,111,17,0,111
+DO,Dominican Republic,17,228,0,17,0,0,17
+EC,Ecuador,59,95,0,57,2,0,57
+SV,El Salvador,9,10,0,8,1,0,8
+FI,Finland,56,328,0,54,2,0,54
+FR,France,8603,17973,0,7377,1221,4,7377
+DE,Germany,8419,13226,0,7088,1326,5,7088
+GR,Greece,9,11,0,6,3,0,6
+GT,Guatemala,2,4,0,2,0,0,2
+HK,Hong Kong,1041,1049,0,822,216,3,822
+HU,Hungary,123,175,0,102,21,0,102
+IS,Iceland,8,9,0,7,1,0,7
+IN,India,418,594,0,370,44,4,370
+IE,Ireland,72,222,5,46,19,2,51
+IL,Israel,54,141,0,46,8,0,46
+IT,Italy,1519,2098,0,1261,258,0,1261
+JP,Japan,572,766,0,538,31,3,538
+KR,Korea,616,1091,0,501,115,0,501
+LU,Luxembourg,55,81,0,48,7,0,48
+MT,Malta,75,79,0,67,8,0,67
+MX,Mexico,1323,2979,0,1194,129,0,1194
+NL,Netherlands,859,1438,0,671,187,1,671
+NZ,New Zealand,64,128,1,46,15,2,47
+NO,Norway,187,426,0,168,18,1,168
+PA,Panama,26,32,0,24,2,0,24
+PE,Peru,84,257,0,78,6,0,78
+PL,Poland,70,110,0,55,15,0,55
+PT,Portugal,548,710,0,469,78,1,469
+SG,Singapore,179,553,0,168,11,0,168
+SK,Slovakia,28,29,0,25,3,0,25
+SI,Slovenia,1,1,0,0,1,0,0
+ES,Spain,1981,3400,0,1668,312,1,1668
+SE,Sweden,326,552,0,293,33,0,293
+TW,Taiwan,4381,8305,0,3779,602,0,3779
+TH,Thailand,83,105,0,73,10,0,73
+TR,Turkey,11434,14077,0,8997,2433,4,8997
+GB,United Kingdom,9226,14301,0,7057,2119,50,7057
+US,United States,11073,24565,1544,7196,1574,759,8740
+UY,Uruguay,1,1,0,1,0,0,1
+VE,Venezuala,11,21,0,10,1,0,10

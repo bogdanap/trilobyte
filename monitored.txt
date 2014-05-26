@@ -1,0 +1,8 @@
+google.com
+linkedin.com
+yahoo.com
+facebook.com
+twitter.com
+microsoft.com
+skype.com
+

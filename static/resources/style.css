@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    overflow: hidden;
+}
+ 
+#info {
+    position: absolute;
+    z-index: 10;
+    left: 25px;
+    top: 25px;
+}
+ 
+#defs {
+    height: 0;
+    width:0;
+}
+ 
+.frame {
+    fill: none;
+    pointer-events: all;
+}
+ 
+.feature {
+    stroke: #fff;
+    stroke-width: .5px;
+}
+ 
+.globe {
+    stroke: rgba(255, 255, 255, .5);
+    stroke-width: .25px;
+}
+      
+#g1 {
+    width:400px; height:320px;
+    display: inline-block;
+    margin: 1em;
+}
+      
+p {
+    display: block;
+    width: 450px;
+    margin: 2em auto;
+    text-align: left;
+}
+
+}

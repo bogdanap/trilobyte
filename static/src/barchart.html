@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
+<style>
+
+body {
+  font: 14px sans-serif;
+  font-weight: bold;
+  margin: auto;
+}
+
+#title {
+  margin-top: 20px;
+  font-size: 30px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: gray;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.x.axis path {
+  display: none;
+}
+
+</style>
+<body>
+<div id="title" align="center">
+<p> How much are companies disclosing?
+</p> </div>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<div id="barchart" align="center">
+<script src="../resources/js/barchart.js"></script>
+</div>

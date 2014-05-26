@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
+<style>
+
+body {
+  font: 14px sans-serif;
+  font-weight: bold;
+  margin: auto;
+}
+
+#title {
+  margin-top: 20px;
+  font-size: 30px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: gray;
+}
+
+svg {
+  padding: 10px 0 0 10px;
+}
+
+.arc {
+  stroke: #fff;
+}
+
+.donuts {
+  display: block;
+  margin: auto;
+}
+
+#g1, #g2 {
+  width:300px; height:200px;
+  display: inline-block;
+  margin: 1em;
+}
+
+</style>
+
+<script src="../resources/js/jquery.js"></script>
+<script src="../resources/js/raphael.2.1.0.min.js"></script>
+<script src="../resources/js/justgage.1.0.1.min.js"></script>
+<script>
+      var g1, g2;
+
+	  window.onload = function(){
+		  $.ajax({
+			  url: "/country_summary.json",
+			  context: document.body
+		  }).done(function(summary){
+			  summary = JSON.parse(summary);
+			  var g1 = new JustGage({
+				  id: "g1",
+				  value: summary.cpi,
+				  min: 0,
+				  max: 100,
+				  title: "Corruption Perceptions Index",
+				  shadowOpacity: 1,
+				  titleFontColor: "black",
+				  labelFontColor: "black",
+                                  levelColors: ["#ff0000", "#f9c802", "#a9d70b"]
+			  });
+
+			  var g2 = new JustGage({
+				  id: "g2",
+				  value: summary.gcb,
+				  min: 0,
+				  max: 5,
+				  title: "Global Corruption Barometer",
+				  shadowOpacity: 1,
+				  titleFontColor: "black",
+				  labelFontColor: "black"
+			  });
+		  });
+	  };
+</script>
+<body>
+<div id="title" align="center">
+<p> How much data is your government requesting? </p>
+</div>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<div id="donuts" align="center">
+	<script src="../resources/js/donuts.js"> </script>
+</div>
+<br><br>
+<div id="title" align="center">
+<p> How corrupt do its citizens think it is? </p>
+</div>
+<div id="gauges" align="center">
+	<div id="g1"></div>
+	<div id="g2"></div>
+</div>
+

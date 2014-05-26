@@ -1,0 +1,877 @@
+[
+    {
+        "cc": "DK",
+        "cpi": "90",
+        "cname": "Denmark"
+    },
+    {
+        "cc": "FI",
+        "cpi": "90",
+        "cname": "Finland"
+    },
+    {
+        "cc": "NZ",
+        "cpi": "90",
+        "cname": "New Zealand"
+    },
+    {
+        "cc": "SE",
+        "cpi": "88",
+        "cname": "Sweden"
+    },
+    {
+        "cc": "SG",
+        "cpi": "87",
+        "cname": "Singapore"
+    },
+    {
+        "cc": "CH",
+        "cpi": "86",
+        "cname": "Switzerland"
+    },
+    {
+        "cc": "AU",
+        "cpi": "85",
+        "cname": "Australia"
+    },
+    {
+        "cc": "NO",
+        "cpi": "85",
+        "cname": "Norway"
+    },
+    {
+        "cc": "CA",
+        "cpi": "84",
+        "cname": "Canada"
+    },
+    {
+        "cc": "NL",
+        "cpi": "84",
+        "cname": "Netherlands"
+    },
+    {
+        "cc": "IS",
+        "cpi": "82",
+        "cname": "Iceland"
+    },
+    {
+        "cc": "LU",
+        "cpi": "80",
+        "cname": "Luxembourg"
+    },
+    {
+        "cc": "DE",
+        "cpi": "79",
+        "cname": "Germany"
+    },
+    {
+        "cc": "HK",
+        "cpi": "77",
+        "cname": "Hong Kong"
+    },
+    {
+        "cc": "BB",
+        "cpi": "76",
+        "cname": "Barbados"
+    },
+    {
+        "cc": "BE",
+        "cpi": "75",
+        "cname": "Belgium"
+    },
+    {
+        "cc": "JP",
+        "cpi": "74",
+        "cname": "Japan"
+    },
+    {
+        "cc": "GB",
+        "cpi": "74",
+        "cname": "United Kingdom"
+    },
+    {
+        "cc": "US",
+        "cpi": "73",
+        "cname": "United States"
+    },
+    {
+        "cc": "CL",
+        "cpi": "72",
+        "cname": "Chile"
+    },
+    {
+        "cc": "UY",
+        "cpi": "72",
+        "cname": "Uruguay"
+    },
+    {
+        "cc": "BS",
+        "cpi": "71",
+        "cname": "Bahamas"
+    },
+    {
+        "cc": "FR",
+        "cpi": "71",
+        "cname": "France"
+    },
+    {
+        "cc": "LC",
+        "cpi": "71",
+        "cname": "Saint Lucia"
+    },
+    {
+        "cc": "AT",
+        "cpi": "69",
+        "cname": "Austria"
+    },
+    {
+        "cc": "IE",
+        "cpi": "69",
+        "cname": "Ireland"
+    },
+    {
+        "cc": "QA",
+        "cpi": "68",
+        "cname": "Qatar"
+    },
+    {
+        "cc": "AE",
+        "cpi": "68",
+        "cname": "United Arab Emirates"
+    },
+    {
+        "cc": "CY",
+        "cpi": "66",
+        "cname": "Cyprus"
+    },
+    {
+        "cc": "BW",
+        "cpi": "65",
+        "cname": "Botswana"
+    },
+    {
+        "cc": "ES",
+        "cpi": "65",
+        "cname": "Spain"
+    },
+    {
+        "cc": "EE",
+        "cpi": "64",
+        "cname": "Estonia"
+    },
+    {
+        "cc": "BT",
+        "cpi": "63",
+        "cname": "Bhutan"
+    },
+    {
+        "cc": "PT",
+        "cpi": "63",
+        "cname": "Portugal"
+    },
+    {
+        "cc": "PR",
+        "cpi": "63",
+        "cname": "Puerto Rico"
+    },
+    {
+        "cc": "VC",
+        "cpi": "62",
+        "cname": "Saint Vincent and the Grenadines"
+    },
+    {
+        "cc": "SI",
+        "cpi": "61",
+        "cname": "Slovenia"
+    },
+    {
+        "cc": "TW",
+        "cpi": "61",
+        "cname": "Taiwan"
+    },
+    {
+        "cc": "CV",
+        "cpi": "60",
+        "cname": "Cape Verde"
+    },
+    {
+        "cc": "IL",
+        "cpi": "60",
+        "cname": "Israel"
+    },
+    {
+        "cc": "DM",
+        "cpi": "58",
+        "cname": "Dominica"
+    },
+    {
+        "cc": "PL",
+        "cpi": "58",
+        "cname": "Poland"
+    },
+    {
+        "cc": "MT",
+        "cpi": "57",
+        "cname": "Malta"
+    },
+    {
+        "cc": "MU",
+        "cpi": "57",
+        "cname": "Mauritius"
+    },
+    {
+        "cc": "KR",
+        "cpi": "56",
+        "cname": "Korea (South)"
+    },
+    {
+        "cc": "BN",
+        "cpi": "55",
+        "cname": "Brunei"
+    },
+    {
+        "cc": "HU",
+        "cpi": "55",
+        "cname": "Hungary"
+    },
+    {
+        "cc": "CR",
+        "cpi": "54",
+        "cname": "Costa Rica"
+    },
+    {
+        "cc": "LT",
+        "cpi": "54",
+        "cname": "Lithuania"
+    },
+    {
+        "cc": "RW",
+        "cpi": "53",
+        "cname": "Rwanda"
+    },
+    {
+        "cc": "GE",
+        "cpi": "52",
+        "cname": "Georgia"
+    },
+    {
+        "cc": "SC",
+        "cpi": "52",
+        "cname": "Seychelles"
+    },
+    {
+        "cc": "BH",
+        "cpi": "51",
+        "cname": "Bahrain"
+    },
+    {
+        "cc": "CZ",
+        "cpi": "49",
+        "cname": "Czech Republic"
+    },
+    {
+        "cc": "LV",
+        "cpi": "49",
+        "cname": "Latvia"
+    },
+    {
+        "cc": "MY",
+        "cpi": "49",
+        "cname": "Malaysia"
+    },
+    {
+        "cc": "TR",
+        "cpi": "49",
+        "cname": "Turkey"
+    },
+    {
+        "cc": "CU",
+        "cpi": "48",
+        "cname": "Cuba"
+    },
+    {
+        "cc": "JO",
+        "cpi": "48",
+        "cname": "Jordan"
+    },
+    {
+        "cc": "NA",
+        "cpi": "48",
+        "cname": "Namibia"
+    },
+    {
+        "cc": "OM",
+        "cpi": "47",
+        "cname": "Oman"
+    },
+    {
+        "cc": "HR",
+        "cpi": "46",
+        "cname": "Croatia"
+    },
+    {
+        "cc": "SK",
+        "cpi": "46",
+        "cname": "Slovakia"
+    },
+    {
+        "cc": "GH",
+        "cpi": "45",
+        "cname": "Ghana"
+    },
+    {
+        "cc": "LS",
+        "cpi": "45",
+        "cname": "Lesotho"
+    },
+    {
+        "cc": "KW",
+        "cpi": "44",
+        "cname": "Kuwait"
+    },
+    {
+        "cc": "RO",
+        "cpi": "44",
+        "cname": "Romania"
+    },
+    {
+        "cc": "SA",
+        "cpi": "44",
+        "cname": "Saudi Arabia"
+    },
+    {
+        "cc": "BR",
+        "cpi": "43",
+        "cname": "Brazil"
+    },
+    {
+        "cc": "MK",
+        "cpi": "43",
+        "cname": "Macedonia"
+    },
+    {
+        "cc": "ZA",
+        "cpi": "43",
+        "cname": "South Africa"
+    },
+    {
+        "cc": "BA",
+        "cpi": "42",
+        "cname": "Bosnia and Herzegovina"
+    },
+    {
+        "cc": "IT",
+        "cpi": "42",
+        "cname": "Italy"
+    },
+    {
+        "cc": "ST",
+        "cpi": "42",
+        "cname": "Sao Tome and Principe"
+    },
+    {
+        "cc": "BG",
+        "cpi": "41",
+        "cname": "Bulgaria"
+    },
+    {
+        "cc": "LR",
+        "cpi": "41",
+        "cname": "Liberia"
+    },
+    {
+        "cc": "ME",
+        "cpi": "41",
+        "cname": "Montenegro"
+    },
+    {
+        "cc": "TN",
+        "cpi": "41",
+        "cname": "Tunisia"
+    },
+    {
+        "cc": "LK",
+        "cpi": "40",
+        "cname": "Sri Lanka"
+    },
+    {
+        "cc": "CN",
+        "cpi": "39",
+        "cname": "China"
+    },
+    {
+        "cc": "RS",
+        "cpi": "39",
+        "cname": "Serbia"
+    },
+    {
+        "cc": "TT",
+        "cpi": "39",
+        "cname": "Trinidad and Tobago"
+    },
+    {
+        "cc": "BF",
+        "cpi": "38",
+        "cname": "Burkina Faso"
+    },
+    {
+        "cc": "SV",
+        "cpi": "38",
+        "cname": "El Salvador"
+    },
+    {
+        "cc": "JM",
+        "cpi": "38",
+        "cname": "Jamaica"
+    },
+    {
+        "cc": "PA",
+        "cpi": "38",
+        "cname": "Panama"
+    },
+    {
+        "cc": "PE",
+        "cpi": "38",
+        "cname": "Peru"
+    },
+    {
+        "cc": "MW",
+        "cpi": "37",
+        "cname": "Malawi"
+    },
+    {
+        "cc": "MA",
+        "cpi": "37",
+        "cname": "Morocco"
+    },
+    {
+        "cc": "SR",
+        "cpi": "37",
+        "cname": "Suriname"
+    },
+    {
+        "cc": "SZ",
+        "cpi": "37",
+        "cname": "Swaziland"
+    },
+    {
+        "cc": "TH",
+        "cpi": "37",
+        "cname": "Thailand"
+    },
+    {
+        "cc": "ZM",
+        "cpi": "37",
+        "cname": "Zambia"
+    },
+    {
+        "cc": "BJ",
+        "cpi": "36",
+        "cname": "Benin"
+    },
+    {
+        "cc": "CO",
+        "cpi": "36",
+        "cname": "Colombia"
+    },
+    {
+        "cc": "DJ",
+        "cpi": "36",
+        "cname": "Djibouti"
+    },
+    {
+        "cc": "GR",
+        "cpi": "36",
+        "cname": "Greece"
+    },
+    {
+        "cc": "IN",
+        "cpi": "36",
+        "cname": "India"
+    },
+    {
+        "cc": "MD",
+        "cpi": "36",
+        "cname": "Moldova"
+    },
+    {
+        "cc": "MN",
+        "cpi": "36",
+        "cname": "Mongolia"
+    },
+    {
+        "cc": "SN",
+        "cpi": "36",
+        "cname": "Senegal"
+    },
+    {
+        "cc": "AR",
+        "cpi": "35",
+        "cname": "Argentina"
+    },
+    {
+        "cc": "GA",
+        "cpi": "35",
+        "cname": "Gabon"
+    },
+    {
+        "cc": "TZ",
+        "cpi": "35",
+        "cname": "Tanzania"
+    },
+    {
+        "cc": "DZ",
+        "cpi": "34",
+        "cname": "Algeria"
+    },
+    {
+        "cc": "AM",
+        "cpi": "34",
+        "cname": "Armenia"
+    },
+    {
+        "cc": "BO",
+        "cpi": "34",
+        "cname": "Bolivia"
+    },
+    {
+        "cc": "GM",
+        "cpi": "34",
+        "cname": "Gambia"
+    },
+    {
+        "cc": "ML",
+        "cpi": "34",
+        "cname": "Mali"
+    },
+    {
+        "cc": "MX",
+        "cpi": "34",
+        "cname": "Mexico"
+    },
+    {
+        "cc": "PH",
+        "cpi": "34",
+        "cname": "Philippines"
+    },
+    {
+        "cc": "AL",
+        "cpi": "33",
+        "cname": "Albania"
+    },
+    {
+        "cc": "ET",
+        "cpi": "33",
+        "cname": "Ethiopia"
+    },
+    {
+        "cc": "GT",
+        "cpi": "33",
+        "cname": "Guatemala"
+    },
+    {
+        "cc": "NE",
+        "cpi": "33",
+        "cname": "Niger"
+    },
+    {
+        "cc": "TL",
+        "cpi": "33",
+        "cname": "Timor-Leste"
+    },
+    {
+        "cc": "DO",
+        "cpi": "32",
+        "cname": "Dominican Republic"
+    },
+    {
+        "cc": "EC",
+        "cpi": "32",
+        "cname": "Ecuador"
+    },
+    {
+        "cc": "EG",
+        "cpi": "32",
+        "cname": "Egypt"
+    },
+    {
+        "cc": "ID",
+        "cpi": "32",
+        "cname": "Indonesia"
+    },
+    {
+        "cc": "MG",
+        "cpi": "32",
+        "cname": "Madagascar"
+    },
+    {
+        "cc": "BY",
+        "cpi": "31",
+        "cname": "Belarus"
+    },
+    {
+        "cc": "MR",
+        "cpi": "31",
+        "cname": "Mauritania"
+    },
+    {
+        "cc": "MZ",
+        "cpi": "31",
+        "cname": "Mozambique"
+    },
+    {
+        "cc": "SL",
+        "cpi": "31",
+        "cname": "Sierra Leone"
+    },
+    {
+        "cc": "VN",
+        "cpi": "31",
+        "cname": "Vietnam"
+    },
+    {
+        "cc": "LB",
+        "cpi": "30",
+        "cname": "Lebanon"
+    },
+    {
+        "cc": "TG",
+        "cpi": "30",
+        "cname": "Togo"
+    },
+    {
+        "cc": "CI",
+        "cpi": "29",
+        "cname": "C\u00f4te d\u00b4Ivoire"
+    },
+    {
+        "cc": "NI",
+        "cpi": "29",
+        "cname": "Nicaragua"
+    },
+    {
+        "cc": "UG",
+        "cpi": "29",
+        "cname": "Uganda"
+    },
+    {
+        "cc": "KM",
+        "cpi": "28",
+        "cname": "Comoros"
+    },
+    {
+        "cc": "GY",
+        "cpi": "28",
+        "cname": "Guyana"
+    },
+    {
+        "cc": "HN",
+        "cpi": "28",
+        "cname": "Honduras"
+    },
+    {
+        "cc": "IR",
+        "cpi": "28",
+        "cname": "Iran"
+    },
+    {
+        "cc": "KZ",
+        "cpi": "28",
+        "cname": "Kazakhstan"
+    },
+    {
+        "cc": "RU",
+        "cpi": "28",
+        "cname": "Russia"
+    },
+    {
+        "cc": "AZ",
+        "cpi": "27",
+        "cname": "Azerbaijan"
+    },
+    {
+        "cc": "KE",
+        "cpi": "27",
+        "cname": "Kenya"
+    },
+    {
+        "cc": "NP",
+        "cpi": "27",
+        "cname": "Nepal"
+    },
+    {
+        "cc": "NG",
+        "cpi": "27",
+        "cname": "Nigeria"
+    },
+    {
+        "cc": "PK",
+        "cpi": "27",
+        "cname": "Pakistan"
+    },
+    {
+        "cc": "BD",
+        "cpi": "26",
+        "cname": "Bangladesh"
+    },
+    {
+        "cc": "CM",
+        "cpi": "26",
+        "cname": "Cameroon"
+    },
+    {
+        "cc": "CF",
+        "cpi": "26",
+        "cname": "Central African Republic"
+    },
+    {
+        "cc": "CG",
+        "cpi": "26",
+        "cname": "Congo Republic"
+    },
+    {
+        "cc": "SY",
+        "cpi": "26",
+        "cname": "Syria"
+    },
+    {
+        "cc": "UA",
+        "cpi": "26",
+        "cname": "Ukraine"
+    },
+    {
+        "cc": "ER",
+        "cpi": "25",
+        "cname": "Eritrea"
+    },
+    {
+        "cc": "GW",
+        "cpi": "25",
+        "cname": "Guinea-Bissau"
+    },
+    {
+        "cc": "PG",
+        "cpi": "25",
+        "cname": "Papua New Guinea"
+    },
+    {
+        "cc": "PY",
+        "cpi": "25",
+        "cname": "Paraguay"
+    },
+    {
+        "cc": "GN",
+        "cpi": "24",
+        "cname": "Guinea"
+    },
+    {
+        "cc": "KG",
+        "cpi": "24",
+        "cname": "Kyrgyzstan"
+    },
+    {
+        "cc": "YE",
+        "cpi": "23",
+        "cname": "Yemen"
+    },
+    {
+        "cc": "AO",
+        "cpi": "22",
+        "cname": "Angola"
+    },
+    {
+        "cc": "KH",
+        "cpi": "22",
+        "cname": "Cambodia"
+    },
+    {
+        "cc": "TJ",
+        "cpi": "22",
+        "cname": "Tajikistan"
+    },
+    {
+        "cc": "CD",
+        "cpi": "21",
+        "cname": "Democratic Republic of the Congo"
+    },
+    {
+        "cc": "LA",
+        "cpi": "21",
+        "cname": "Laos"
+    },
+    {
+        "cc": "LY",
+        "cpi": "21",
+        "cname": "Libya"
+    },
+    {
+        "cc": "GQ",
+        "cpi": "20",
+        "cname": "Equatorial Guinea"
+    },
+    {
+        "cc": "ZW",
+        "cpi": "20",
+        "cname": "Zimbabwe"
+    },
+    {
+        "cc": "BI",
+        "cpi": "19",
+        "cname": "Burundi"
+    },
+    {
+        "cc": "TD",
+        "cpi": "19",
+        "cname": "Chad"
+    },
+    {
+        "cc": "HT",
+        "cpi": "19",
+        "cname": "Haiti"
+    },
+    {
+        "cc": "VE",
+        "cpi": "19",
+        "cname": "Venezuela"
+    },
+    {
+        "cc": "IQ",
+        "cpi": "18",
+        "cname": "Iraq"
+    },
+    {
+        "cc": "TM",
+        "cpi": "17",
+        "cname": "Turkmenistan"
+    },
+    {
+        "cc": "UZ",
+        "cpi": "17",
+        "cname": "Uzbekistan"
+    },
+    {
+        "cc": "MM",
+        "cpi": "15",
+        "cname": "Myanmar"
+    },
+    {
+        "cc": "SD",
+        "cpi": "13",
+        "cname": "Sudan"
+    },
+    {
+        "cc": "AF",
+        "cpi": "8",
+        "cname": "Afghanistan"
+    },
+    {
+        "cc": "KP",
+        "cpi": "8",
+        "cname": "Korea (North)"
+    },
+    {
+        "cc": "SO",
+        "cpi": "8",
+        "cname": "Somalia"
+    }
+]
